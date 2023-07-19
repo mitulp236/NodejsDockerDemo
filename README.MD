@@ -20,7 +20,7 @@ First change to the directory and install dependencies:
 cd simple
 npm install
 ```
-
+  
 ## Directly run
 
 The example Node.js application is just "Hello world", you run it directly like this:
